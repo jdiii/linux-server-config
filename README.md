@@ -4,10 +4,10 @@
 The web app is accessible at http://ec2-52-32-234-250.us-west-2.compute.amazonaws.com/
 
 ## Server information
-IP: 52.32.234.250
-User: grader
-Password: zKqGyiqiTrz2kN
-SSH port: 2200
+- IP: 52.32.234.250
+- User: grader
+- Password: zKqGyiqiTrz2kN
+- SSH port: 2200
 
 Accessible by SSH using RSA key only
 
