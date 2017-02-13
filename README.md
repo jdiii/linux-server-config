@@ -18,6 +18,7 @@ Accessible by SSH using RSA key only
 - Config ufw to only accept incoming connections on 80, 123, 2200
 - Config ufw to allow outgoing connections
 - Disable password authentication over ssh
+- Set PermitRootLogin to 'no'
 - Switch SSH port to 2200
 - Turn on ufw
 
