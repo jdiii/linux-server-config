@@ -1,4 +1,5 @@
 # Linux Server Configuration
+Readme for FSND Linux-based Server Configuration project
 
 ## Site information
 The web app is accessible at http://ec2-52-32-234-250.us-west-2.compute.amazonaws.com/
